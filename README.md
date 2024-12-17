@@ -1,7 +1,7 @@
 # 📧 Spam Email Detection
 
 ## 🚀 Project Overview  
-The **Spam Email Detection ** is a machine learning-based project that classifies emails as **Spam** or **Not Spam** using **Natural Language Processing (NLP)** and a **Logistic Regression** model. It includes a user-friendly **Streamlit** web application for real-time email classification.  
+The **Spam Email Detection** is a machine learning-based project that classifies emails as **Spam** or **Not Spam** using **Natural Language Processing (NLP)** and a **Logistic Regression** model. It includes a user-friendly **Streamlit** web application for real-time email classification.  
 
 ---
 
