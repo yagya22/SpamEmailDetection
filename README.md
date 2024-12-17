@@ -32,13 +32,13 @@ spam-email-detection/
 **git clone https://github.com/yagya22/SpamEmailDetection.git**<br/>
 **cd SpamEmailDetection**
 
-## Set Up Virtual Environment<br/>
+##Set Up Virtual Environment<br/>
 
 python -m venv venv<br/>
 source venv/bin/activate       # For Linux/Mac<br/>
 venv\Scripts\activate          # For Windows
 
-##Install Dependencies<br/>
+#Install Dependencies <br/>
 **pip install -r requirement.txt**
 
 #Run the Application<br/>
